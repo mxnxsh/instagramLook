@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+
+/*section {
+    width: 100%;
+    background-color: royalblue;
+    margin: 10px;
+}*/
+
+
+/*
+.circle {
+    background-color: red;
+    margin: 15px;
+}
+*/
+
+.images {
+    margin: 5px 1px;
+}
+
+.addBlog {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 5px solid blue;
+    cursor: pointer;
+    margin: 5px 1px;
+}
+
+.addBlog p {
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+
+.images img {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 5px solid darkgoldenrod;
+    cursor: pointer;
+}
